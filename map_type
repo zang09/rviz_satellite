@@ -1,0 +1,5 @@
+basic: https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png
+mapbox satellite: https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiemFuZzA5IiwiYSI6ImNraDVtdHRtczAyOTEyd281MnI4aHJwaTAifQ.VZySkjSuxYvAZriCcEuv-Q
+google maps: https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}
+google satellite: https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
+google hybrid: https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}
